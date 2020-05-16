@@ -1,7 +1,4 @@
 Hello
 everyone
-Here
-is
-a
-feature
+
 goodbye.
